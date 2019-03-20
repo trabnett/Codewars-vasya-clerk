@@ -1,5 +1,3 @@
-let peopleInLine = [25,25,25,100,25,25,50,100,25,25,50,100,25,25,25,100,25,25,25,100]
-
 
 function tickets(peopleInLine){
     let dic = {
@@ -43,6 +41,3 @@ function tickets(peopleInLine){
     return "YES"
 
 }
-
-console.log(tickets(peopleInLine))
-     
